@@ -19,6 +19,8 @@ function App() {
     days: 0,
   });
 
+  console.log("funcionando");
+
   function handleCalculator() {
     setDay("");
     setMonth("");
