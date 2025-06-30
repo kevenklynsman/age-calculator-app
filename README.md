@@ -6,6 +6,8 @@
 
 A Calculadora de Idade é uma aplicação web que permite calcular a idade de uma pessoa com base na data de nascimento fornecida.
 
+A Calculadora de Idade foi desenvolvida com base no Desafio do Site Frontend Mentor. O objetivo principal da aplicação é fornecer uma ferramenta simples para calcular a idade de uma pessoa com base na data de nascimento fornecida.
+
 ## Tecnologias e Dependências
 
 - React
